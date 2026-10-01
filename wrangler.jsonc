@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "omdb-proxy",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-10-01"
+}
